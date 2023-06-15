@@ -26,7 +26,7 @@ In this project you'll choose an api to consume. You will build an application f
 
 - [ ] Create a forked copy of this project.
 - [ ] Start up the app using `npm start`.
-- [ ] Add your code into teh `\src` folder.
+- [ ] Add your code into the `\src` folder.
 
 ### Task 2: Minimum Viable Product
 
@@ -41,3 +41,6 @@ In this project you'll choose an api to consume. You will build an application f
 - [ ] Connect your fork to Codegrade using the "Connect Git" button.
 - [ ] Find your newly created fork from the list and push your work to main.
 - [ ] Check this video for details: www.youtube.com/watch?v=fC2BO7dI6IQ
+https://api.giphy.com/v1/gifs/search?api_key=eF68i1SpJhoVnYQRTDKYcXdtpZIGeJDP&q=dogs
+https://api.publicapis.org/entries
+https://catfact.ninja/fact
